@@ -1,2 +1,20 @@
 *.class
 *.log
+
+# IDE configuration files
+.idea/*
+*.iml
+.gradle
+build/
+
+# Local SDK configuration file
+local.properties
+
+
+*.apk
+*.ap_
+
+.class
+bin/
+gen/
+
